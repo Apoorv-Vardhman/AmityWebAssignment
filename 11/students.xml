@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<students>
+    <student>
+        <enrollment>1</enrollment>
+        <sem>VI</sem>
+        <physics>80</physics>
+        <chemistry>80</chemistry>
+        <maths>80</maths>
+        <english>80</english>
+        <hindi>80</hindi>
+        <total>400</total>
+        <percent>80</percent>
+    </student>
+    <student>
+        <enrollment>2</enrollment>
+        <sem>VI</sem>
+        <physics>70</physics>
+        <chemistry>70</chemistry>
+        <maths>70</maths>
+        <english>70</english>
+        <hindi>70</hindi>
+        <total>350</total>
+        <percent>70</percent>
+    </student>
+    <student>
+        <enrollment>3</enrollment>
+        <sem>VI</sem>
+        <physics>80</physics>
+        <chemistry>80</chemistry>
+        <maths>80</maths>
+        <english>80</english>
+        <hindi>80</hindi>
+        <total>400</total>
+        <percent>80</percent>
+    </student>
+</students>
